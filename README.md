@@ -24,6 +24,6 @@ python Grocery-Simulator.py
 
 - [ ] Add more randomized events
 
-- [ ] Add ASCII art
+- [x] Add ASCII art
 
 - [ ] Add color to text
