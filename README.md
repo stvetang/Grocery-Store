@@ -1,6 +1,6 @@
 # Grocery-Store
 
-A simple text-based grocery shopping simulator written in Python. This is my first Python project, created to help me learn how Python handles user input, functions, loops, and conditionals. Python 3 installed. No external libraries required.
+A simple text-based grocery shopping simulator written in Python using VS Code. This is my first Python project, created to help me learn how Python handles user input, functions, loops, and conditionals. Python 3 installed. No external libraries required.
 
 Features
 
@@ -15,3 +15,15 @@ To run the project:
 ```bash
 python Grocery-Simulator.py
 ```
+## Roadmap
+- [ ] Add quantities and item names to cart summary
+
+- [ ] Add more item categories (e.g., veggies, snacks)
+
+- [ ] Add multiple stores with different items
+
+- [ ] Add more randomized events
+
+- [ ] Add ASCII art
+
+- [ ] Add color to text
